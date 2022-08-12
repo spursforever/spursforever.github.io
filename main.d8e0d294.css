@@ -5288,7 +5288,7 @@ button.close {
     border: 1px solid #fff;
     border-radius: 10px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #0009;
     background-color: transparent
 }
 
@@ -6016,4 +6016,14 @@ label {
     margin-right: 5px
 }
 
+.github-link {
+    margin-right: 30px;
+    font-size: 17px;
+    color: orange;
+}
+
+.live-link {
+    font-size: 17px;
+    color: orange
+}
 /*# sourceMappingURL=main.bc58148c.map*/
