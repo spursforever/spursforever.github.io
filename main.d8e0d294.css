@@ -1501,11 +1501,11 @@ pre code {
     }
 
     .col-md-3 {
-        width: 25%
+        width: 33.333%
     }
 
     .col-md-4 {
-        width: 33.33333%
+        width: 100%
     }
 
     .col-md-5 {
@@ -6020,11 +6020,13 @@ label {
     margin-right: 30px;
     font-size: 17px;
     color: orange;
+    margin-bottom: 20px;
 }
 
 .live-link {
     font-size: 17px;
-    color: orange
+    color: orange;
+    margin-bottom: 20px;
 }
 
 .my-resume {
@@ -6038,5 +6040,6 @@ label {
 
 img {
     margin-right: 13px;
+    margin-bottom: 30px;
 }
 /*# sourceMappingURL=main.bc58148c.map*/
